@@ -1,0 +1,42 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Amaranth.vcxproj, PeasOut.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Engine.cpp
+c:\users\nahim\pictures\new folder\100111543\fishsea\core\engine.cpp(235): warning C4244: 'argument': conversion from '_Ty2' to 'float', possible loss of data
+          with
+          [
+              _Ty2=GLdouble
+          ]
+c:\users\nahim\pictures\new folder\100111543\fishsea\core\engine.cpp(235): warning C4244: 'argument': conversion from '_Ty1' to 'float', possible loss of data
+          with
+          [
+              _Ty1=GLdouble
+          ]
+c:\users\nahim\pictures\new folder\100111543\fishsea\core\engine.cpp(244): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nahim\pictures\new folder\100111543\fishsea\core\engine.cpp(347): warning C4018: '<': signed/unsigned mismatch
+  tgaload.cpp
+c:\users\nahim\pictures\new folder\100111543\fishsea\core\tgaload.cpp(37): warning C4244: 'argument': conversion from 'unsigned int' to 'GLfloat', possible loss of data
+c:\users\nahim\pictures\new folder\100111543\fishsea\core\tgaload.cpp(126): warning C4101: 'data': unreferenced local variable
+c:\users\nahim\pictures\new folder\100111543\fishsea\core\tgaload.cpp(352): warning C4101: 'file': unreferenced local variable
+  Entity.cpp
+  NPC.cpp
+  Player.cpp
+c:\users\nahim\pictures\new folder\100111543\fishsea\object\player.cpp(145): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\nahim\pictures\new folder\100111543\fishsea\object\player.cpp(206): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\nahim\pictures\new folder\100111543\fishsea\object\player.cpp(244): warning C4553: '==': result of expression not used; did you intend '='?
+c:\users\nahim\pictures\new folder\100111543\fishsea\object\player.cpp(147): warning C4101: 'ndt': unreferenced local variable
+c:\users\nahim\pictures\new folder\100111543\fishsea\object\player.cpp(146): warning C4101: 'fc': unreferenced local variable
+  Prop.cpp
+  SpatialHash.cpp
+  FreeType.cpp
+  Renderer.cpp
+c:\users\nahim\pictures\new folder\100111543\fishsea\view\renderer.cpp(74): warning C4244: 'argument': conversion from 'GLuint' to 'GLfloat', possible loss of data
+c:\users\nahim\pictures\new folder\100111543\fishsea\view\renderer.cpp(75): warning C4244: 'argument': conversion from 'GLuint' to 'GLfloat', possible loss of data
+c:\users\nahim\pictures\new folder\100111543\fishsea\view\renderer.cpp(76): warning C4244: 'argument': conversion from 'GLuint' to 'GLfloat', possible loss of data
+c:\users\nahim\pictures\new folder\100111543\fishsea\view\renderer.cpp(112): warning C4244: '=': conversion from 'GLuint' to 'GLfloat', possible loss of data
+  Texture.cpp
+  World.cpp
+  Generating Code...
+  FishSea.vcxproj -> C:\Users\Nahim\Pictures\New folder\100111543\Debug\FishSea.exe

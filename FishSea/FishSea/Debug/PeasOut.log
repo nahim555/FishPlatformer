@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Amaranth.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Engine.cpp
+e:\documents\programmingprojects\cpp\amaranth\peasout\core\engine.cpp(235): warning C4244: 'argument': conversion from 'GLdouble' to 'float', possible loss of data
+e:\documents\programmingprojects\cpp\amaranth\peasout\core\engine.cpp(244): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\documents\programmingprojects\cpp\amaranth\peasout\core\engine.cpp(347): warning C4018: '<': signed/unsigned mismatch
+  PeasOut.vcxproj -> E:\Documents\ProgrammingProjects\Cpp\Amaranth\Debug\PeasOut.exe
+  PeasOut.vcxproj -> E:\Documents\ProgrammingProjects\Cpp\Amaranth\Debug\PeasOut.pdb (Full PDB)
